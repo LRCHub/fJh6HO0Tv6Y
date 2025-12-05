@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "I Know What",
+  "base_artist": "DJ RYOW",
+  "createdAt": "2025-12-05T17:06:57.529812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Know What You Want (feat. Mariah Carey & the Flipmode Squad)",
+      "artist": "Busta Rhymes feat. Mariah Carey & Flipmode Squad",
+      "has_synced": true,
+      "path": "select/01_I_Know_What_You_Want_(feat._Mariah_Carey_&_the_Flipmode_Squad)_Busta_Rhymes_feat._Mariah_Carey_&_Flipmode_Squad.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Know What You Want Feat Mariah Carey",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/02_I_Know_What_You_Want_Feat_Mariah_Carey_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Know What I Want",
+      "artist": "Math and Physics Club",
+      "has_synced": true,
+      "path": "select/03_I_Know_What_I_Want_Math_and_Physics_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Know What You're Puttin' Down",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/04_I_Know_What_You're_Puttin'_Down_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Know What U Mean",
+      "artist": "Hotline TNT",
+      "has_synced": true,
+      "path": "select/05_I_Know_What_U_Mean_Hotline_TNT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Know What I Like",
+      "artist": "Huey Lewis and The News",
+      "has_synced": false,
+      "path": "select/06_I_Know_What_I_Like_Huey_Lewis_and_The_News.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Know What I Like",
+      "artist": "Huey Lewis and the News",
+      "has_synced": true,
+      "path": "select/07_I_Know_What_I_Like_Huey_Lewis_and_the_News.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Know What You Want",
+      "artist": "Mariah Carey feat. Busta Rhymes & Flipmode Squad",
+      "has_synced": true,
+      "path": "select/08_I_Know_What_You_Want_Mariah_Carey_feat._Busta_Rhymes_&_Flipmode_Squad.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Know What You Want (feat. Mariah Carey & The Flipmode Squad)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/09_I_Know_What_You_Want_(feat._Mariah_Carey_&_The_Flipmode_Squad)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Know What You Want",
+      "artist": "Cassie",
+      "has_synced": false,
+      "path": "select/10_I_Know_What_You_Want_Cassie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Know What I Know",
+      "artist": "Paul Simon",
+      "has_synced": false,
+      "path": "select/11_I_Know_What_I_Know_Paul_Simon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Know What I Like (In Your Wardrobe)",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/12_I_Know_What_I_Like_(In_Your_Wardrobe)_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Know What I Want",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/13_I_Know_What_I_Want_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Know What I Want (Live Non LP B-Side)",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/14_I_Know_What_I_Want_(Live_Non_LP_B-Side)_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Know What I Want (live at Daytona Beach ’88, Non LP B‐side)",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/15_I_Know_What_I_Want_(live_at_Daytona_Beach_’88,_Non_LP_B‐side)_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Know What I Want (Live)",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/16_I_Know_What_I_Want_(Live)_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Might Think He Loves You for Your Money but I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat",
+      "artist": "Death Grips",
+      "has_synced": true,
+      "path": "select/17_You_Might_Think_He_Loves_You_for_Your_Money_but_I_Know_What_He_Really_Loves_You__Death_Grips.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Know What I Like (In Your Wardrobe)",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/18_I_Know_What_I_Like_(In_Your_Wardrobe)_Genesis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Know What",
+      "artist": "DJ RYOW, ¥ellow Bucks, Anarchy",
+      "has_synced": false,
+      "path": "select/pl_01_I_Know_What_DJ_RYOW,_¥ellow_Bucks,_Anarchy.txt"
+    }
+  ]
+}
